@@ -29,4 +29,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-[Proje Resmi](https://lh3.googleusercontent.com/proxy/tC1DpVPndDbI5mwnrg-4sfa5TkeWbcA80DiwltSgdSyIUhp_iZ-7KGu2pbpcNrJfEwJgnYGle9O2sFSMlg7wpkS7LayABnExFubXUAGEwD0DAsVm1nzk0d3sKdgMvQhl_0fV-7iyp27ABxBz5Je1Vcs5trRh3nvbFSMqYv16nc5jMJNZrgOOtas0ojzBDj-yHVy-hw)
+![Proje Resmi](https://lh3.googleusercontent.com/proxy/tC1DpVPndDbI5mwnrg-4sfa5TkeWbcA80DiwltSgdSyIUhp_iZ-7KGu2pbpcNrJfEwJgnYGle9O2sFSMlg7wpkS7LayABnExFubXUAGEwD0DAsVm1nzk0d3sKdgMvQhl_0fV-7iyp27ABxBz5Je1Vcs5trRh3nvbFSMqYv16nc5jMJNZrgOOtas0ojzBDj-yHVy-hw)
